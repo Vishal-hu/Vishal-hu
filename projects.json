@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "title": "Lpg Project",
+      "description": "",
+      "image": "",
+      "icon": "",
+      "tags": [
+        "Mongo",
+        "Express",
+        "Node"
+      ],
+      "source": "https://github.com/Vishal-hu/LPGProject",
+      "visit": "https://www.herokuapp.com/",
+      "id": 1
+    }
+  ],
+  "TimeLineData": [
+    {
+      "year": 2013,
+      "text": "Started pursuing B.Tech in Information Technology. "
+    },
+    {
+      "year": 2015,
+      "text": "Built my first Node.js api."
+    },
+    {
+      "year": 2018,
+      "text": "Begin to acquire the necessary skills to become a web developer."
+    },
+    {
+      "year": 2020,
+      "text": "Build some real web applications."
+    }
+  ],
+  "resumeLink": "https://www.google.com"
+}
