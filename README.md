@@ -1,3 +1,13 @@
+ <h3 align="center">
+
+ <img width=30 src="https://emoji.gg/assets/emoji/1463-wave.gif" alt="Hi" /> Hi, I’m Vishal Kumar
+
+ <img width=30 src="https://emoji.gg/assets/emoji/3734-playing-pc-games.gif" alt="coding" />&nbsp; Web Developer
+</h3>
+  
+<img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="Vishal" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-hu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 ### Hi there 👋
 - 🔭 I’m currently working on NodeJs Projects
 - 🌱 I’m currently learning Data Engineering
@@ -6,18 +16,6 @@
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i'm lazy
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-hu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-
- <h3 align="center">
-
- <img width=30 src="https://emoji.gg/assets/emoji/1463-wave.gif" alt="Hi" /> Hi, I’m Nikhil Kumar
-
- <img width=30 src="https://emoji.gg/assets/emoji/3734-playing-pc-games.gif" alt="coding" />&nbsp; Web Developer
-</h3>
-  
-<img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
