@@ -2,7 +2,7 @@
 
  <img width=30 src="https://emoji.gg/assets/emoji/1463-wave.gif" alt="Hi" /> Hi, I’m Vishal Kumar
 
- <img width=30 src="https://emoji.gg/assets/emoji/3734-playing-pc-games.gif" alt="coding" />&nbsp; Web Developer
+ <img width=30 src="https://emoji.gg/assets/emoji/3734-playing-pc-games.gif" alt="coding" />&nbsp; Backend Developer (NodeJS)
 </h3>
   
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="Vishal" />
